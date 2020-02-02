@@ -1,0 +1,24 @@
+{
+  "name": "function-kick-heated-floor-mat",
+  "version": "1.0.0",
+  "description": "電気カーペットの電源をいい感じに入れてくれるGCPプロジェクト",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shimobayashi/function-kick-heated-floor-mat.git"
+  },
+  "author": "shimobayashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimobayashi/function-kick-heated-floor-mat/issues"
+  },
+  "homepage": "https://github.com/shimobayashi/function-kick-heated-floor-mat#readme",
+  "dependencies": {
+    "@types/node": "^13.7.0",
+    "axios": "^0.19.2",
+    "typescript": "^3.7.5"
+  }
+}
